@@ -1,2 +1,1 @@
-sup
-I use Linux btw
+I use arch linux btw
